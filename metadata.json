@@ -1,0 +1,6 @@
+{
+  "name": "ZenSports",
+  "description": "A premium glassmorphic sports content app with real-time live match schedules, news feed, user styling configurations, and local offline downloads. Fully functional mock-real Firebase Auth and Firestore with interactive Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
